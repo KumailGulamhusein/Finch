@@ -13,7 +13,7 @@ Example of input for Leftward Movement
 
 <img width="294" alt="Finch_Left_Movement" src="https://user-images.githubusercontent.com/61838026/110105306-47aeec80-7db9-11eb-9f8f-9c2dfa6e690b.PNG">
 
-### Also, implaemented a backtrack feature to replay all movement in reverse to return to original position.
+### Also, implemented a backtrack feature to replay all movement in reverse to return to original position.
 
 Creates a temporary txt file to record all movements and replays X amount of movements, provided that many movements or less have taken place.
 
